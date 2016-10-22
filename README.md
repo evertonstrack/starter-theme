@@ -1,4 +1,4 @@
-# Starter Theme
+Starter Theme
 ========
 
 Starter Theme is a ultra clean Wordpres theme. It's a custom Twenty Sixteen theme from Wordpress, clean for start developement. 
