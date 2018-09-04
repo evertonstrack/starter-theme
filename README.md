@@ -2,7 +2,7 @@ Starter Theme
 ========
 
 Starter Theme is a ultra clean Wordpres theme.
-Update README.mdIt's a custom Twenty Sixteen theme from Wordpress, clean for start developement. 
+It's a custom Twenty Sixteen theme from Wordpress, clean for start developement. 
 
 
 Features
